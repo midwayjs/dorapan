@@ -1,6 +1,6 @@
 {
   "name": "dorapan",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Mirror of Pandora.js",
   "main": "index.js",
   "scripts": {
