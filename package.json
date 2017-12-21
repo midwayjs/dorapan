@@ -1,6 +1,6 @@
 {
   "name": "dorapan",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A mirror client sdk for Pandora.js",
   "main": "index.js",
   "scripts": {
