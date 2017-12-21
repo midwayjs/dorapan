@@ -1,7 +1,7 @@
 {
   "name": "dorapan",
   "version": "1.0.4",
-  "description": "A Mirror of Pandora.js",
+  "description": "A mirror client sdk for Pandora.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
