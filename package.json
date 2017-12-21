@@ -1,0 +1,21 @@
+{
+  "name": "dorapan",
+  "version": "1.0.0",
+  "description": "A Mirror of Pandora.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/midwayjs/dorapan.git"
+  },
+  "keywords": [
+    "Pandora.js"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/midwayjs/dorapan/issues"
+  },
+  "homepage": "https://github.com/midwayjs/dorapan#readme"
+}
