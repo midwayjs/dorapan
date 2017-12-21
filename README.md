@@ -2,7 +2,7 @@
 
 A mirror client sdk for Pandora.js
 
-[Waht is Dorapan](https://www.google.com/search?q=dorapan&tbm=isch)
+[Who is Dorapan](https://www.google.com/search?q=dorapan&tbm=isch)
 
 ## Usage 
 
