@@ -11,4 +11,4 @@ if(!PANDORA_HOME) {
     'You may refer to https://github.com/midwayjs/dorapan/wiki/Under-Unit-Test to find some helpful tips if you are running your own unit tests.\n'
   );
 }
-module.exports = process.env.PANDORA_HOME;
+module.exports = require(process.env.PANDORA_HOME);
